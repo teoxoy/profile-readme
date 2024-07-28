@@ -103,6 +103,10 @@ Total number of repositories you contributed to.
 
 Total number of stars on all your gists and repositories.
 
+#### `{{ MERGED_PULL_REQUESTS }}`
+
+Total number of pull requests merged.
+
 ### Languages
 
 A region that will be repeated for every language you use in your repositories.
