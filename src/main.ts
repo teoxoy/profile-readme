@@ -18,6 +18,7 @@ enum TPL_STR {
     REPOSITORIES = 'REPOSITORIES',
     REPOSITORIES_CONTRIBUTED_TO = 'REPOSITORIES_CONTRIBUTED_TO',
     STARS = 'STARS',
+    MERGED_PULL_REQUESTS = 'MERGED_PULL_REQUESTS'
 }
 
 run().catch(error => core.setFailed(error.message))
